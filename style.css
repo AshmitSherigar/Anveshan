@@ -15,6 +15,10 @@ html, body {
     /* background-color: black; */
 
 }
+#signin{
+    height: 100%;
+    width: 100%;
+}
 #loginpage #signin{
     display: flex;
 }
