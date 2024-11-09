@@ -24,11 +24,16 @@ html, body {
 }
 #signin #login-part1{
     height: 100%;
+<<<<<<< HEAD
     width: 60%;
     background-color: black;
+=======
+    width: 55%;
+    background-color: red;
+>>>>>>> 4f3f8b462081aacfea94bc573d5472b07b08200d
 }
 #signin #login-part2{
     height: 100%;
-    width: 40%;
+    width: 45%;
     background-color: blue;
 }
